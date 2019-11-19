@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 date: 2019-11-18T07:00:00.000Z
-permalink: /contact
+permalink: /contact.html
 navtitle: Contact
 tags:
   - nav
